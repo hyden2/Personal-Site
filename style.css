@@ -1,0 +1,13 @@
+.daj {
+  color: #ffffff;
+  font-family: "Playfasir Display", serif;
+  font-weight: 900;
+  font-style: normal;
+}
+.lead {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.heading {
+  /* background-color: #4793af; */
+  border-radius: 10%;
+}
